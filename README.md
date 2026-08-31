@@ -58,9 +58,9 @@ La Landing Page sirve como punto de entrada y presentación general del proyecto
 ├─────────────────────────────────────────────┤
 │              ¿Qué puedes aprender?          │
 │                                             │
-│  🎣 Phishing     🔐 Contraseñas             │
-│  🦠 Malware      📱 Redes sociales          │
-│  🛡️ Datos personales                        │
+│  🎣 Phishing     🔐 Contraseñas            │
+│  🦠 Malware      📱 Redes sociales         │
+│  🛡️ Datos personales                       │
 ├─────────────────────────────────────────────┤
 │              Aprende de forma               │
 │                 interactiva                 │
